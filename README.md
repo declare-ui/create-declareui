@@ -52,9 +52,9 @@ Options:
 
 | Package | Description |
 |:--------|:------------|
-| [`@declareui/cli`](https://github.com/declare-ui/cli) | CLI tool for building and managing components |
-| [`@declareui/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
-| [`@declareui/examples`](https://github.com/declare-ui/examples) | Example projects |
+| [`@declareuihq/cli`](https://github.com/declare-ui/cli) | CLI tool for building and managing components |
+| [`@declareuihq/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
+| [`@declareuihq/examples`](https://github.com/declare-ui/examples) | Example projects |
 
 ## Contributing
 
